@@ -1,3 +1,6 @@
+
+/* Author: Madhav Chauhan */
+
 #include <stdio.h>
 #include <stdlib.h>
 
