@@ -1,7 +1,7 @@
 
 /* Author: Madhav Chauhan */
 
-/* This program print hostnname */
+/* This program print hostname */
 
 #include <stdio.h>
 #include <stdlib.h>
