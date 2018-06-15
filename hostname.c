@@ -12,7 +12,7 @@ int main(void) {
             gethostname(hostname, 100);
 
                 printf("HOSTNAME:%s\n",hostname);
-		printf("MADHAV\n");
+		printf("MADHAV CHAUHAN\n");
 
                     return EXIT_SUCCESS;
 }
